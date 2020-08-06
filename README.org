@@ -1,0 +1,30 @@
+#+TITLE: Hi! I'm Hari!
+#+AUTHOR: Hari Amoor
+#+EMAIL amoor.hari@gmail.com
+
+I'm currently pursuing a B.S. at Rutgers University -- New Brunswick. I'm a double major in Computer Science and Math, pursuing a position as a Software Engineer.
+
+Feel free to have a look at my [[https://github.com/hariamoor/Resume/blob/master/resume_files/resume.pdf][resumé]]!
+
+* Professional Interests
+
+In college, I had the opportunity to study various facets of computer science, including but not limited to:
+
+    + Programming Language Theory
+    + Operating Systems
+    + Distributed Systems
+    + Databases and Networks
+
+My areas of interest in industry correspond to many of these subjects, ranging from backend web development to low-level infrastructural operations.
+
+I've had the pleasure of working in a myriad of programming languages and software development processes (see the full specification on my resumé), but my favorites by far include Rust and Haskell -- I'm a huge fan of strong functional type systems and formal verifiability.
+
+* Personal Interests
+
+Aside from my professional interests in computer science, I'm also a hobbyist in the mathematical studies of algebra and combinatorics. I'm currently working through [[https://homotopytypetheory.org/book/][Homotopy Type Theory: Univalent Foundations of Mathematics]], along with some other books and papers in the area of category and type theory.
+
+Other than that, I'm pretty much an all-purpose nerd! I'm always excited to talk and learn new things about anime, video games, and of course, Emacs (you'll notice that this README is is written in Org)!
+
+* Getting in Touch
+
+Feel free to reach out at [[mailto:amoor.hari@gmail.com][amoor.hari@gmail.com]] if you'd like to talk!
