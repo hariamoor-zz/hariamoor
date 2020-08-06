@@ -1,6 +1,4 @@
-#+TITLE: Hi! I'm Hari!
-#+AUTHOR: Hari Amoor
-#+EMAIL amoor.hari@gmail.com
+Hi! My name is Hari!
 
 I'm currently pursuing a B.S. at Rutgers University -- New Brunswick. I'm a double major in Computer Science and Math, pursuing a position as a Software Engineer.
 
